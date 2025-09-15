@@ -1,9 +1,3 @@
-model_config_list {
- config {
-    name: 'potatoes_model'
-    base_path: '/workspace/local-files/projects/codebasics/plants-detection/potatoes_model'
-    model_platform: 'tensorflow'
-    model_version_policy: {all: {}}
-        }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7450f95dcfbbd52e07fa3e1b006a30fdc6fe7d5f0c732f1862da0743b8340edc
+size 231
